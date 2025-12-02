@@ -7,6 +7,7 @@
 3.The study focuses on identifying usability issues and proposing design improvements supported by sketches, mockups, and UX reasoning.
 
  ****Project Overview**** 
+ 
 Zomato is widely used for food ordering and restaurant discovery, but certain parts of the user journey still contain friction.  
 
 This case study aims to improve:
