@@ -1,6 +1,8 @@
 **Zomato UX Case Study** 
 1.Redesigning User Experience for Better Clarity, Faster Decision-Making & Higher Satisfaction 
+
 2.This repository contains my UX Case Study on Zomato — one of India’s leading food delivery platforms.  
+
 3.The study focuses on identifying usability issues and proposing design improvements supported by sketches, mockups, and UX reasoning.
 
  ****Project Overview**** 
