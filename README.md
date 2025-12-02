@@ -10,17 +10,12 @@ Zomato is widely used for food ordering and restaurant discovery, but certain pa
 
 This case study aims to improve:
 
-   Discoverability of deals & restaurant info  
-   
-   Faster decision-making  
-   
-   Quicker menu navigation  
-   
-   Transparent coupon visibility  
-   
-   Reduced cognitive load  
-   
-   Overall user satisfaction  
+  >Discoverability of deals & restaurant info  
+  >Faster decision-making  
+  >Quicker menu navigation  
+  >Transparent coupon visibility  
+  >Reduced cognitive load  
+  >Overall user satisfaction  
 
 ****User Journey Breakdown****  
 1. **App Launch & Onboarding**  
@@ -32,24 +27,17 @@ This case study aims to improve:
 7. **Post-Order Feedback**
 
 ****Key Strengths Identified****  
-Strong visual design 
-
-Personalization using recommendations
-
-Powerful tracking system
-
-Effective filtering & sorting  
+1.Strong visual design 
+2.Personalization using recommendations
+3.Powerful tracking system
+4.Effective filtering & sorting  
 
 ****Problems Identified**** 
-Cluttered homepage  
-
-Discounts visible only late in checkout  
-
-Long scrolling menus  
-
-Insufficient dish images
-
-High cognitive load while comparing  
+1.Cluttered homepage  
+2.Discounts visible only late in checkout  
+3.Long scrolling menus  
+4.Insufficient dish images
+5.High cognitive load while comparing  
 
 ---
 
@@ -81,26 +69,17 @@ High cognitive load while comparing
 ---
 
 ****Included Deliverables****  
-This repo includes:
-
-Final UX Case Study PDF
-
-Hand-drawn sketches & mockups  
-
-Redesigned UI frames  
-
-UX problem–solution mapping  
+1.This repo includes:
+2.Final UX Case Study PDF
+3.Hand-drawn sketches & mockups  
+4.Redesigned UI frames  
+5.UX problem–solution mapping  
 
  ****Tools Used**** 
-Figma  
-
-Adobe XD (optional) 
-
-DALL·E sketch generation 
-
-Google Docs / Word  
-
-GitHub  
+1.Figma  
+2.Adobe XD (optional) 
+3.Google Docs / Word  
+4.GitHub  
 
 
 
